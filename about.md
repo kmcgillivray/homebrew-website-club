@@ -1,12 +1,12 @@
-# Homebrew Website Club
+# Homebrew Website Club – Green Bay
 
-Homebrew Website Club is a monthly meetup of people passionate about or interested in creating, improving, building, or designing their own website, in the same structure as the classic [Homebrew Computer Club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club) meetings.
+[Homebrew Website Club](https://indieweb.org/Homebrew_Website_Club) is a monthly meetup of people passionate about or interested in creating, improving, building, or designing their own website, in the same structure as the classic [Homebrew Computer Club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club) meetings.
 
 Groups meet all over the world, and we're adding Green Bay to the list!
 
 ## When
 
-Every second Wednesday of the month from 6:30 PM - 7:30 PM.
+TBD, possibly every second Wednesday of the month from 6:30 PM - 7:30 PM.
 
 ## Where
 
